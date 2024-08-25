@@ -1,0 +1,19 @@
+cricket equipment:
+
+Cricket Bat
+Cricket Ball
+Stumps
+Bails
+Helmet
+Batting Pads
+Batting Gloves
+Thigh Pads
+Abdominal Guard (Box)
+Chest Guard
+Elbow Guard
+Shirt
+Trousers
+Spiked Shoes
+Cricket Cap or Hat
+Boundary Rope or Flags
+Sight Screen
